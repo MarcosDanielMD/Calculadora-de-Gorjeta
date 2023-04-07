@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculardoraGorjeta_MarcosDaniel/1.0.0": {
+        "runtime": {
+          "CalculardoraGorjeta_MarcosDaniel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculardoraGorjeta_MarcosDaniel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
